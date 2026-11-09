@@ -17,7 +17,7 @@
   - automated a 16-scenario end-to-end flow with a 100% pass rate
   - cut a test matrix from 48 combinations to 12 with **pairwise testing**
   - raised **95+ valid defects**
-- 🎓 B.Tech in Computer Science at Siksha 'O' Anusandhan University (CGPA 8.72), Bhubaneswar.
+- 🎓 B.Tech in Computer Science at Siksha 'O' Anusandhan University (CGPA 8.92), Bhubaneswar.
 
 ### 🛠️ Toolbox
 
