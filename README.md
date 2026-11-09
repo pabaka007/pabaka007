@@ -48,12 +48,12 @@
 |---|---|
 | [**Banking Management System**](https://github.com/pabaka007/Banking-Management-System) | A Java + JDBC banking app **with its own test framework**: 73 tests across service (TestNG), API (REST Assured) and UI (Selenium POM) layers. The [live Allure report](https://pabaka007.github.io/Banking-Management-System/) is published by GitHub Actions CI. |
 | [**CVE Assessment (Securin)**](https://github.com/pabaka007/Securin-labs) | Spring Boot app that syncs vulnerabilities from the NVD API and serves them through a filterable REST API and web UI. |
-| [**AI-Driven Cloud Vendor Risk Assessment**](https://github.com/pabaka007/AI-Driven-Risk-Assessment-for-Third-Party-Cloud-Integrations) | EY GDS Cybersecurity capstone (Python): rule-based risk scoring combined with anomaly detection. |
+| [**AI-Driven Cloud Vendor Risk Assessment**](https://github.com/pabaka007/AI-Driven-Risk-Assessment-for-Third-Party-Cloud-Integrations) | EY GDS Cybersecurity Immersion Program capstone (Python): rule-based risk scoring combined with anomaly detection. |
 | [**Portfolio**](https://github.com/pabaka007/Portfolio) | My portfolio site, [pabaka007.github.io/Portfolio](https://pabaka007.github.io/Portfolio/) |
 
 ### 🏅 Certifications and achievements
 
-EY GDS Cybersecurity Training Program (2025) · HackerRank Java & SQL ⭐⭐⭐⭐⭐ · Solving for India Hackathon (GfG × AMD) · Hacktoberfest 2024
+EY GDS Cybersecurity Immersion Program (2025) · HackerRank Java & SQL ⭐⭐⭐⭐⭐ · Solving for India Hackathon (GfG × AMD) · Hacktoberfest 2024
 
 ---
 
